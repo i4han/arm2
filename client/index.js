@@ -3,7 +3,7 @@ import angular from 'angular'
 import uiRouter from 'angular-ui-router'
 import HTML from 'htmlable'
 
-switch (2) {
+switch (1) {
 
     case 0:
         // production
