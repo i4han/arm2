@@ -12,7 +12,7 @@ import expect from 'expect'
 const client = new apolloClient(
   Object.assign({}, meteorClientConfig(), {
     networkInterface: createNetworkInterface({ 
-      uri: 'http://localhost:3001/graphql' 
+      uri: 'http://35.164.114.107:3000/graphql' 
     }) 
   })  
 ) // network

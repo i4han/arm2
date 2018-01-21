@@ -3,12 +3,12 @@ import angular from 'angular'
 import uiRouter from 'angular-ui-router'
 import HTML from 'htmlable'
 
-switch (1) {
+switch (2) {
 
     case 0:
         // production
-        import './imports/material'
-        import './imports/slate'
+        // import './imports/material'
+        // import './imports/slate'
         break
     case 1:
         // angularjs
